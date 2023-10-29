@@ -5,7 +5,7 @@ package com.salat.resume;
  */
 public interface Person {
     /**
-     * Get name of person.
+     * Get person name.
      *
      * @return person name.
      */
@@ -19,9 +19,30 @@ public interface Person {
     String getEmail();
     
     /**
-     * Get person telegram.
+     * Get person Telegram.
      *
-     * @return person telegram.
+     * @return person Telegram.
      */
     String getTelegram();
+
+    /**
+     * Get person skills.
+     *
+     * @return person skills.
+     */
+    String getSkills();
+
+    /**
+     * Get person education.
+     *
+     * @return person education.
+     */
+    String getEducation();
+
+    /**
+     * Get person experience.
+     *
+     * @return person experience.
+     */
+    String getExperience();
 }
