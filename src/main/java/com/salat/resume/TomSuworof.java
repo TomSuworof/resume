@@ -97,7 +97,7 @@ public class TomSuworof implements Person {
      * @return
      * <ul>
      * <li>
-     * <b>August 2021 — now.</b> Sigur, Nizhniy Novgorod. I am working on client server installable app for access
+     * <b>August 2022 — now.</b> Sigur, Nizhniy Novgorod. I am working on client server installable app for access
      * security management.
      * Tech stack: Spring, H2, Java Swing (desktop UI), C++, Maven, Ant, Gradle.
      * </li>
@@ -118,7 +118,7 @@ public class TomSuworof implements Person {
         return """
         <ul>
         <li>
-        <b>August 2021 — now.</b> Sigur, Nizhniy Novgorod. I am working on client server installable app for access
+        <b>August 2022 — now.</b> Sigur, Nizhniy Novgorod. I am working on client server installable app for access
         security management.
         Tech stack: Spring, H2, Java Swing (desktop UI), C++, Maven, Ant, Gradle.
         </li>
