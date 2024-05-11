@@ -41,7 +41,7 @@ public class TomSuworof implements Person {
      * @return
      * <ul>
      * <li>Spring Framework (Boot, MVC, JPA, Reactor и Security)</li>
-     * <li>Java 8-21, primarky 8, 11 and 17</li>
+     * <li>Java 8-21, primarly 8, 11 and 17</li>
      * <li>Java Collections API, Streams, Multithreading</li>
      * <li>Git, GitHub, GitLab</li>
      * <li>Maven</li>
@@ -106,7 +106,7 @@ public class TomSuworof implements Person {
      * Tech stack: Quarkus, Postgres, Kubernetes, Jenkins, Arquillian, JUnit, Kafka.
      * </li>
      * <li>
-     * I have profile on GitHub with educational and my own projects: <a href="https://github.com/TomSuworof">Tom Suworof's GitHub</a>.
+     * I have a profile on GitHub with educational and my own projects: <a href="https://github.com/TomSuworof">Tom Suworof's GitHub</a>.
      * </li>
      * <li>
      * Experience in solving algorithm problems
